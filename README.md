@@ -9,7 +9,7 @@ A modern, responsive React application for managing a sweet shop inventory syste
 
 ## 🌐 Live Demo & Repository Links
 
-- **🚀 Live Frontend:** [https://incubyte-client.vercel.app](https://incubyte-client.vercel.app)
+- **🚀 Live Frontend:** [https://incubyte-client-iopp.vercel.app](https://incubyte-client-iopp.vercel.app)
 - **🔗 Backend API:** [https://incubyte-server.onrender.com](https://incubyte-server.onrender.com)
 - **📦 Backend Repository:** [https://github.com/Rohityadav21/Incubyte_Server](https://github.com/Rohityadav21/Incubyte_Server)
 - **📂 Frontend Repository:** [https://github.com/Rohityadav21/Incubyte_Client](https://github.com/Rohityadav21/Incubyte_Client)
@@ -566,7 +566,7 @@ describe('SweetList Component', () => {
 ### Live Application
 
 The application is deployed and accessible at:
-- **Frontend:** [https://incubyte-client.vercel.app](https://incubyte-client.vercel.app)
+- **Frontend:** [https://incubyte-client-iopp.vercel.app](https://incubyte-client-iopp.vercel.app)
 - **Backend:** [https://incubyte-server.onrender.com](https://incubyte-server.onrender.com)
 
 ### Deployment Platform
@@ -792,7 +792,7 @@ For support, email anant.kapooor@gmail.com or open an issue in the repository.
 
 **🔗 Related Links**
 - [Backend Repository](https://github.com/Rohityadav21/Incubyte_Server)
-- [Live Application](https://incubyte-client.vercel.app)
+- [Live Application](https://incubyte-client-iopp.vercel.app)
 - [API Documentation](https://incubyte-server.onrender.com/api/sweets)
 
 ---

@@ -6,22 +6,22 @@ Please add the following screenshots to this folder:
 
 ### 1. home.png
 - **What to capture:** Landing page with hero section and feature cards
-- **URL:** https://incubyte-client.vercel.app/
+- **URL:** https://incubyte-client-iopp.vercel.app/
 - **Size:** 1920x1080 (Full HD) recommended
 
 ### 2. register.png
 - **What to capture:** Registration form
-- **URL:** https://incubyte-client.vercel.app/register
+- **URL:** https://incubyte-client-iopp.vercel.app/register
 - **Show:** Form fields, validation messages (if any)
 
 ### 3. login.png
 - **What to capture:** Login form
-- **URL:** https://incubyte-client.vercel.app/login
+- **URL:** https://incubyte-client-iopp.vercel.app/login
 - **Show:** Email and password fields
 
 ### 4. sweet-list.png
 - **What to capture:** Sweet list with search bar and category filters
-- **URL:** https://incubyte-client.vercel.app/sweets
+- **URL:** https://incubyte-client-iopp.vercel.app/sweets
 - **Show:** Grid of sweets, search bar, category buttons
 
 ### 5. sweet-card.png
@@ -30,17 +30,17 @@ Please add the following screenshots to this folder:
 
 ### 6. dashboard.png
 - **What to capture:** User dashboard after login
-- **URL:** https://incubyte-client.vercel.app/dashboard
+- **URL:** https://incubyte-client-iopp.vercel.app/dashboard
 - **Show:** User info, stats cards
 
 ### 7. admin-add.png
 - **What to capture:** Admin panel - Add sweet form
-- **URL:** https://incubyte-client.vercel.app/admin
+- **URL:** https://incubyte-client-iopp.vercel.app/admin
 - **Show:** Form to add new sweet
 
 ### 8. admin-inventory.png
 - **What to capture:** Admin panel - Inventory table
-- **URL:** https://incubyte-client.vercel.app/admin
+- **URL:** https://incubyte-client-iopp.vercel.app/admin
 - **Show:** Table with sweets, restock and delete buttons
 
 ### 9. mobile.png
