@@ -9,10 +9,10 @@ A modern, responsive React application for managing a sweet shop inventory syste
 
 ## 🌐 Live Demo & Repository Links
 
-- **🚀 Live Frontend:** [https://incubyte-frontend-lake.vercel.app](https://incubyte-frontend-lake.vercel.app)
-- **🔗 Backend API:** [https://incubyte-backend-jf38.onrender.com](https://incubyte-backend-jf38.onrender.com)
-- **📦 Backend Repository:** [https://github.com/anantk13/Incubyte_backend](https://github.com/anantk13/Incubyte_backend)
-- **📂 Frontend Repository:** [https://github.com/anantk13/Incubyte_frontend](https://github.com/anantk13/Incubyte_frontend)
+- **🚀 Live Frontend:** [https://incubyte-client.vercel.app](https://incubyte-client.vercel.app)
+- **🔗 Backend API:** [https://incubyte-server.onrender.com](https://incubyte-server.onrender.com)
+- **📦 Backend Repository:** [https://github.com/Rohityadav21/Incubyte_Server](https://github.com/Rohityadav21/Incubyte_Server)
+- **📂 Frontend Repository:** [https://github.com/Rohityadav21/Incubyte_Client](https://github.com/Rohityadav21/Incubyte_Client)
 
 ## 📋 Table of Contents
 
@@ -203,14 +203,14 @@ Before you begin, ensure you have the following installed:
 - **Node.js** (v18 or higher) - [Download](https://nodejs.org/)
 - **npm** (comes with Node.js) or **yarn**
 - **Git** - [Download](https://git-scm.com/)
-- **Backend API** running (see [Backend Repository](https://github.com/anantk13/Incubyte_backend))
+- **Backend API** running (see [Backend Repository](https://github.com/Rohityadav21/Incubyte_Server))
 
 ### Installation Steps
 
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/anantk13/Incubyte_frontend.git
+git clone https://github.com/Rohityadav21/Incubyte_Client.git
 cd Incubyte_frontend
 ```
 
@@ -248,7 +248,7 @@ REACT_APP_NAME=Sweet Shop Management System
 
 **For Production:**
 ```env
-REACT_APP_API_URL=https://incubyte-backend-jf38.onrender.com/api
+REACT_APP_API_URL=https://incubyte-server.onrender.com/api
 ```
 
 #### 4. Start the Development Server
@@ -271,7 +271,7 @@ If it doesn't open automatically, navigate to:
 
 1. Clone the backend repository:
    ```bash
-   git clone https://github.com/anantk13/Incubyte_backend.git
+   git clone https://github.com/Rohityadav21/Incubyte_Server.git
    cd Incubyte_backend
    ```
 
@@ -298,7 +298,7 @@ If it doesn't open automatically, navigate to:
 
 1. Clone the frontend repository (in a new terminal):
    ```bash
-   git clone https://github.com/anantk13/Incubyte_frontend.git
+   git clone https://github.com/Rohityadav21/Incubyte_Client.git
    cd Incubyte_frontend
    ```
 
@@ -566,8 +566,8 @@ describe('SweetList Component', () => {
 ### Live Application
 
 The application is deployed and accessible at:
-- **Frontend:** [https://incubyte-frontend-lake.vercel.app](https://incubyte-frontend-lake.vercel.app)
-- **Backend:** [https://incubyte-backend-jf38.onrender.com](https://incubyte-backend-jf38.onrender.com)
+- **Frontend:** [https://incubyte-client.vercel.app](https://incubyte-client.vercel.app)
+- **Backend:** [https://incubyte-server.onrender.com](https://incubyte-server.onrender.com)
 
 ### Deployment Platform
 
@@ -602,7 +602,7 @@ The application is deployed and accessible at:
    - Go to Settings → Environment Variables
    - Add:
      ```
-     REACT_APP_API_URL=https://incubyte-backend-jf38.onrender.com/api
+     REACT_APP_API_URL=https://incubyte-server.onrender.com/api
      ```
 
 5. **Deploy**
@@ -613,7 +613,7 @@ The application is deployed and accessible at:
 ### Environment Variables for Production
 
 ```env
-REACT_APP_API_URL=https://incubyte-backend-jf38.onrender.com/api
+REACT_APP_API_URL=https://incubyte-server.onrender.com/api
 REACT_APP_NAME=Sweet Shop Management System
 ```
 
@@ -770,8 +770,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Anant Kapoor**
-- GitHub: [@anantk13](https://github.com/anantk13)
+**Rohit Yadav**
+- GitHub: [@Rohityadav21](https://github.com/Rohityadav21)
 - Email: anant.kapooor@gmail.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
@@ -791,9 +791,9 @@ For support, email anant.kapooor@gmail.com or open an issue in the repository.
 **⭐ If you find this project useful, please consider giving it a star!**
 
 **🔗 Related Links**
-- [Backend Repository](https://github.com/anantk13/Incubyte_backend)
-- [Live Application](https://incubyte-frontend-lake.vercel.app)
-- [API Documentation](https://incubyte-backend-jf38.onrender.com/api/sweets)
+- [Backend Repository](https://github.com/Rohityadav21/Incubyte_Server)
+- [Live Application](https://incubyte-client.vercel.app)
+- [API Documentation](https://incubyte-server.onrender.com/api/sweets)
 
 ---
 

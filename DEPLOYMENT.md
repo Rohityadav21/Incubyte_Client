@@ -5,10 +5,8 @@
 For deployment, set the following environment variable:
 
 ```env
-REACT_APP_API_URL=https://your-backend-url.com/api
+REACT_APP_API_URL=https://incubyte-server.onrender.com/api
 ```
-
-Replace `your-backend-url.com` with your actual backend deployment URL.
 
 ## Deployment Instructions
 
@@ -19,7 +17,7 @@ Replace `your-backend-url.com` with your actual backend deployment URL.
 3. Import your repository
 4. Add environment variable:
    - Key: `REACT_APP_API_URL`
-   - Value: `https://your-backend-url.com/api`
+   - Value: `https://incubyte-server.onrender.com/api`
 5. Deploy
 
 ### Netlify Deployment
@@ -32,7 +30,7 @@ Replace `your-backend-url.com` with your actual backend deployment URL.
    - Publish directory: `build`
 5. Add environment variable:
    - Key: `REACT_APP_API_URL`
-   - Value: `https://your-backend-url.com/api`
+   - Value: `https://incubyte-server.onrender.com/api`
 6. Deploy
 
 ## Build Command
