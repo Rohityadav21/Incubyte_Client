@@ -14,7 +14,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%);
   min-height: 100vh;
 }
 
@@ -88,7 +88,7 @@ body {
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%);
   color: white;
 }
 
@@ -152,7 +152,7 @@ body {
 
 .form-control:focus {
   outline: none;
-  border-color: #667eea;
+  border-color: #2193b0;
 }
 
 /* Alert Styles */

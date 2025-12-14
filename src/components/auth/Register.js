@@ -115,9 +115,9 @@ const Register = () => {
         <div className="auth-container">
             <div className="auth-card">
                 <div className="auth-header">
-                    <h1>🍬 Sweet Shop</h1>
+                    <h1>Sweet Shop</h1>
                     <h2>Create Account</h2>
-                    <p>Join us to manage your sweet shop</p>
+                    <p>Join us and start managing your sweet shop</p>
                 </div>
 
                 {(localError || error) && (

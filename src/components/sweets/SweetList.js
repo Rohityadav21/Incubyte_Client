@@ -120,7 +120,7 @@ const SweetList = () => {
     return (
         <div className="sweet-list-container">
             <div className="sweet-list-header">
-                <h1>🍬 Browse Our Sweets</h1>
+                <h1>Browse Our Sweets</h1>
                 <p>Discover our delicious collection of sweets and candies</p>
             </div>
 

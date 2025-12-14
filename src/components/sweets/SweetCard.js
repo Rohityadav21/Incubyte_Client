@@ -80,13 +80,7 @@ const SweetCard = ({ sweet, onUpdate }) => {
         <div className={`sweet-card ${sweet.quantity === 0 ? 'out-of-stock-card' : ''}`}>
             {/* Sweet Icon/Image */}
             <div className="sweet-icon">
-                {sweet.category === 'Chocolate' && '🍫'}
-                {sweet.category === 'Candy' && '🍬'}
-                {sweet.category === 'Gummy' && '🐻'}
-                {sweet.category === 'Lollipop' && '🍭'}
-                {sweet.category === 'Hard Candy' && '🍬'}
-                {sweet.category === 'Soft Candy' && '🍡'}
-                {!['Chocolate', 'Candy', 'Gummy', 'Lollipop', 'Hard Candy', 'Soft Candy'].includes(sweet.category) && '🍰'}
+                🏪
             </div>
 
             {/* Sweet Details */}

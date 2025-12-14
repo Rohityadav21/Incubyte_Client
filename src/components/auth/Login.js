@@ -99,7 +99,7 @@ const Login = () => {
         <div className="auth-container">
             <div className="auth-card">
                 <div className="auth-header">
-                    <h1>🍬 Sweet Shop</h1>
+                    <h1>Sweet Shop</h1>
                     <h2>Welcome Back!</h2>
                     <p>Login to manage your sweet shop</p>
                 </div>

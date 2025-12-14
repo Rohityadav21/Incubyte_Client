@@ -174,7 +174,7 @@ const AdminPanel = () => {
     return (
         <div className="admin-panel-container">
             <div className="admin-header">
-                <h1>👑 Admin Panel</h1>
+                <h1>Admin Panel</h1>
                 <p>Welcome, {user?.name}! Manage your sweet shop inventory</p>
             </div>
 
@@ -183,7 +183,7 @@ const AdminPanel = () => {
 
             {/* Add Sweet Form */}
             <div className="admin-section">
-                <h2>➕ Add New Sweet</h2>
+                <h2>Add New Sweet</h2>
                 <form onSubmit={handleAddSweet} className="add-sweet-form">
                     <div className="form-row">
                         <div className="form-group">

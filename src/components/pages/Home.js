@@ -14,7 +14,6 @@ const Home = () => {
         <div className="home-container">
             <div className="hero-section">
                 <h1 className="hero-title">
-                    <span className="hero-icon">🍬</span>
                     Welcome to Sweet Shop
                 </h1>
                 <p className="hero-subtitle">
@@ -34,7 +33,7 @@ const Home = () => {
 
             <div className="features-section">
                 <div className="feature-card">
-                    <div className="feature-icon">🍫</div>
+                    <div className="feature-icon">📊</div>
                     <h3>Wide Selection</h3>
                     <p>Choose from hundreds of delicious sweets and candies</p>
                 </div>

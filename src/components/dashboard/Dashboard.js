@@ -12,13 +12,13 @@ const Dashboard = () => {
     return (
         <div className="dashboard-container">
             <div className="dashboard-header">
-                <h1>Welcome, {user?.name}! 👋</h1>
+                <h1>Welcome, {user?.name}!</h1>
                 <p>Manage your sweet shop from here</p>
             </div>
 
             <div className="dashboard-grid">
                 <div className="dashboard-card">
-                    <div className="card-icon">🍬</div>
+                    <div className="card-icon">📊</div>
                     <h3>Total Sweets</h3>
                     <p className="card-value">Coming Soon</p>
                 </div>
@@ -37,7 +37,7 @@ const Dashboard = () => {
 
                 {isAdmin() && (
                     <div className="dashboard-card admin-card">
-                        <div className="card-icon">👑</div>
+                        <div className="card-icon">⚙️</div>
                         <h3>Admin Panel</h3>
                         <p className="card-value">Full Access</p>
                     </div>

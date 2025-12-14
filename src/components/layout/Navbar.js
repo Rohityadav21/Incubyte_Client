@@ -22,7 +22,6 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="navbar-container">
                 <Link to="/" className="navbar-brand">
-                    <span className="brand-icon">🍬</span>
                     <span className="brand-text">Sweet Shop</span>
                 </Link>
 
@@ -38,7 +37,7 @@ const Navbar = () => {
                             </Link>
                             {isAdmin() && (
                                 <Link to="/admin" className="nav-link admin-link">
-                                    👑 Admin Panel
+                                    Admin Panel
                                 </Link>
                             )}
                             <div className="navbar-user">

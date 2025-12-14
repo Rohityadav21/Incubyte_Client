@@ -44,7 +44,7 @@
 
 .sweet-category {
     display: inline-block;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%);
     color: white;
     padding: 4px 12px;
     border-radius: 12px;
@@ -72,7 +72,7 @@
 .sweet-price {
     font-size: 28px;
     font-weight: 700;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -110,7 +110,7 @@
 .btn-purchase {
     width: 100%;
     padding: 14px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #2193b0 0%, #6dd5ed 100%);
     color: white;
     border: none;
     border-radius: 10px;
