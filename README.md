@@ -772,7 +772,7 @@ This project is licensed under the MIT License.
 
 **Rohit Yadav**
 - GitHub: [@Rohityadav21](https://github.com/Rohityadav21)
-- Email: anant.kapooor@gmail.com
+- Email: rohityadav36001@gmail.com
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
@@ -784,7 +784,7 @@ This project is licensed under the MIT License.
 
 ## 📞 Support
 
-For support, email anant.kapooor@gmail.com or open an issue in the repository.
+For support, email rohityadav36001@gmail.com or open an issue in the repository.
 
 ---
 
